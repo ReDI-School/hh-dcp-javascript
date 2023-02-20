@@ -1,4 +1,4 @@
-# ReDI School NRW Fall 2022 JavaScript course
+# ReDI School Hamburg Spring 2023 JavaScript course
 
 
 ## Students
