@@ -3,13 +3,13 @@
 
 ## Students
 
-Check out the [Slides](https://redi-school.github.io/js-nrw-2022-fall/#/)
+Check out the [Slides](https://redi-school.github.io/js-hamburg/)
 
 ### Slides as PDF
 
 If you want to export the slides as a PDF file, please visit this link instead:
 
-[https://redi-school.github.io/js-nrw-2022-fall/?print-pdf](https://redi-school.github.io/js-nrw-2022-fall/?print-pdf)
+[https://redi-school.github.io/js-hamburg/](https://redi-school.github.io/js-hamburg/)
 
 Then, choose "File - Print" in your browser and choose "Save as PDF".
 
