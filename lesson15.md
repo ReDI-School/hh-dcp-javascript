@@ -1,6 +1,6 @@
 <!-- .slide: id="lesson15" -->
 
-# Basic Frontend - Fall 2022
+# Basic Frontend
 
 Lesson 15
 
