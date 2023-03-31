@@ -20,7 +20,7 @@ Direct link to lessons: [1](#lesson1) [2](#lesson2) [3](#lesson3) [4](#lesson4) 
 
 <!-- .slide: id="lesson1" -->
 
-# Basic Frontend - Spring 2022
+# Basic Frontend
 
 Lesson 1
 
