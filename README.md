@@ -9,9 +9,16 @@ Check out the [Slides](https://redi-school.github.io/js-hamburg/)
 
 If you want to export the slides as a PDF file, please visit this link instead:
 
-[https://redi-school.github.io/js-hamburg/](https://redi-school.github.io/js-hamburg/)
+[https://redi-school.github.io/js-hamburg/?print-pdf](https://redi-school.github.io/js-hamburg/?print-pdf)
 
-Then, choose "File - Print" in your browser and choose "Save as PDF".
+* Open the in-browser print dialog (CTRL/CMD+P).
+* Change the Destination setting to Save as PDF.
+* Change the Layout to Landscape.
+* Change the Margins to None.
+* Enable the Background graphics option.
+* Click Save 🎉
+
+Documentation for the revealjs slide engine: https://revealjs.com/pdf-export/
 
 ## Teachers
 
